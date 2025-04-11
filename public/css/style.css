@@ -1,0 +1,30 @@
+body {
+	background-color: whitesmoke;
+}
+
+.hubung:link {
+	text-decoration: none;
+}
+
+.hubung:visited {
+	text-decoration: none;
+}
+
+.hubung:hover {
+	text-decoration: underline;
+}
+
+.hubung:active {
+	text-decoration: underline;
+}
+
+.kecil {
+	width: 400px;
+	height: 300px;
+	overflow: hidden;
+}
+
+footer {
+	text-decoration: none;
+	color: black;
+}
