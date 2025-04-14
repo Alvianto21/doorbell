@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=HqAMb6kqlLs&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21
 -Laravel 11
 -Bootsrap 5 
 -AdminLTE 3.2
--PHP 7.4.29
+-PHP 8.3.13
 
 ## Contribute
 -Alvianto21
